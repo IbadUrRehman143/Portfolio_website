@@ -6,7 +6,15 @@
   "scripts": {
     "server": "nodemon index.js"
   },
-  "keywords": [],
+  "keywords": [
+
+    "Node.js",
+    "Express",
+    "EJS",
+    "MongoDB",
+    "Mongoose",
+    "Portfolio"
+  ],
   "author": "",
   "license": "ISC",
   "type": "module",
